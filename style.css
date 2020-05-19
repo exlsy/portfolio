@@ -47,3 +47,8 @@
 
   --weight-regular: 400;
 }
+
+/* Universal tags */
+* {
+  box-sizing: border-box;
+}
