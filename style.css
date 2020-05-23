@@ -429,7 +429,7 @@ p {
 }
 
 .testmonial__avatar {
-  width: 150px;
+  /* width: 150px; */
   height: 150px;
   border-radius: 50%;
   /* margin: 12px; */
@@ -480,5 +480,5 @@ p {
 
 .contact__links i:hover {
   transform: scale(1.2);
-  color: var(--color-yellow);
+  color: var(--color-pink);
 }
