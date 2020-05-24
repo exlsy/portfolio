@@ -556,13 +556,16 @@ p {
   }
 
   .navbar__menu {
+    width: 100%;
+  }
+  .navbar__menu ul{
     flex-direction: column;
     text-align: center;
     width: 100%;
     display: none;
   }
 
-  .navbar__menu.open {
+  .navbar__menu ul.open {
     display: block;
   }
 
